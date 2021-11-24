@@ -162,7 +162,7 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Olá novamente, eu sou {0} no {1}. Um bot que faz um encontro entre você e um novo colega para atender a cada semana. Esta semana, a sua correspondência é {2}.</value>
+    <value>Olá novamente, eu sou {0} no {1}. Um bot que faz um encontro entre você e um novo colega para se conhecer a cada semana. Esta semana, a sua correspondência é {2}.</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
@@ -178,7 +178,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>Oi, parece que já houve uma combinação com {0} esta semana. Seria ótimo marcar um café, um almoço ou uma chamada, se você tiver tempo.</value>
+    <value>Oi, parece que já houve uma encontro seu com {0} esta semana. Seria ótimo marcar um café, um almoço ou uma chamada, se você tiver tempo.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
@@ -230,7 +230,7 @@
     <comment>This is the tour match task module header text</comment>
   </data>
   <data name="TourWelcomeBodyText" xml:space="preserve">
-    <value>Toda semana, irei combinar você com alguém novo. Se você tiver tempoessa semana, poderá ir a um almoço, ou uma chamada se estiver em locais diferentes. Procure outra mensagem na qual irei combinar você com a primeira correspondência.</value>
+    <value>Toda semana, irei combinar um econtro entre você e alguém novo. Se você tiver tempovessa semana, poderá ir a um almoço, ou uma chamada se estiver em locais diferentes. Procure outra mensagem na qual irei combinar você com a primeira correspondência.</value>
     <comment>This is the tour welcome body text</comment>
   </data>
   <data name="TourWelcomeHeaderText" xml:space="preserve">
